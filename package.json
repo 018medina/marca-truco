@@ -1,0 +1,20 @@
+{
+  "name": "marca-truco",
+  "version": "1.0.0",
+  "description": "Marcador de Truco - PWA para contar pontos no jogo de Truco",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "lint": "echo 'No linting configured for static HTML project'"
+  },
+  "keywords": [
+    "truco",
+    "marcador",
+    "pwa"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
